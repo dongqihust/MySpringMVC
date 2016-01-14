@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/main/java/com/springapp/common/BaseHibernateDao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/springapp/common/ConvertUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/springapp/common/DateUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/springapp/common/EncodeUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/springapp/common/HibernateDao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/springapp/common/MD5Util.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/springapp/common/Pagination.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/springapp/common/PropertyFilter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/springapp/common/ReflectionUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/springapp/common/ServletUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/HelloController.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
